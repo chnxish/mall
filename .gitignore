@@ -17,3 +17,8 @@ buildNumber.properties
 .classpath
 
 .idea/
+**/.mvn
+**/.gitattributes
+**/.gitignore
+**/mvnw
+**/mvnw.cmd
